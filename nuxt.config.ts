@@ -85,6 +85,11 @@ export default defineNuxtConfig({
     prerender: {
       routes: ['/', '/privacy-policy'],
     },
+    cloudflare: {
+      pages: {
+        assetBinding: 'ASSETS_NAMESPACE',
+      },
+    },
   },
 
   vite: {
