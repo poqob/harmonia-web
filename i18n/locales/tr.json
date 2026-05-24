@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "features": "Özellikler",
+    "frequencies": "Frekanslar",
+    "screenshots": "Ekran Görüntüleri",
+    "download": "İndir"
+  },
+  "hero": {
+    "tagline": "Frekans Tabanlı Ses Terapi Uygulaması",
+    "description": "Solfeggio frekansları, binaural beats ve isochronic atımları gerçek zamanlı dalga formu senteziyle deneyimleyin.",
+    "download": "Google Play'den İndir",
+    "learnMore": "Daha Fazla",
+    "scrollHint": "Aşağı kaydır",
+    "features": "11 Solfeggio · 16 Binaural · 16 İzochronik"
+  },
+  "features": {
+    "title": "Özellikler",
+    "titleAccent": "Neler Sunuyor",
+    "subtitle": "Hiçbir ses dosyasına ihtiyaç duymaz — tüm sesler anlık olarak sentezlenir",
+    "solfeggio": {
+      "title": "11 Solfeggio Frekansı",
+      "description": "396 Hz'den 999 Hz'e kadar geleneksel Solfeggio skalası. Her frekansın kendine özgü rengi ve anlamı."
+    },
+    "binaural": {
+      "title": "Binaural Beats",
+      "description": "5 beyin dalgası kategorisinde 16 farklı beat frekansı. Delta, Teta, Alfa, Beta ve Gamma."
+    },
+    "isochronic": {
+      "title": "İzochronic Atımlar",
+      "description": "16 pulse frekansı, 3 dalga formu seçeneği (Sinüs, Kare, Üçgen). Hoparlörle de kullanılabilir."
+    },
+    "aura": {
+      "title": "Görsel Aura Animasyonları",
+      "description": "5 farklı görselleştirme modu: Kutsal Geometri, Enerji Küresi, Dalga Girişimi, Parçacık Halkaları, Nefes Alan Işık."
+    },
+    "studio": {
+      "title": "Studio Modu",
+      "description": "Hazır presetler ve Frekans Laboratuvarı ile 20–1500 Hz aralığında özel kombinasyon oluşturun."
+    },
+    "analytics": {
+      "title": "Analitik Paneli",
+      "description": "Dinleme istatistikleri, günlük/haftalık grafikler, mod ve frekans bazlı dağılım."
+    },
+    "background": {
+      "title": "Arka Planda Çalma",
+      "description": "Uygulama arka plandayken ses devam eder. Bildirim desteği ile çalan frekans bilgisi."
+    }
+  },
+  "frequencies": {
+    "title": "Solfeggio",
+    "titleAccent": "Frekansları",
+    "subtitle": "11 şifa frekansı — her birinin kendi rengi, anlamı ve titreşimi var",
+    "hz": "Hz",
+    "freq_396": { "name": "Özgürleşme", "sub": "Korku ve suçluluktan arınma" },
+    "freq_417": { "name": "Değişim", "sub": "Dönüşüm ve travma temizleme" },
+    "freq_432": { "name": "Uyum", "sub": "Evrenle uyumlanma frekansı" },
+    "freq_528": { "name": "Dönüşüm", "sub": "DNA onarımı ve mucizeler" },
+    "freq_639": { "name": "Bağlantı", "sub": "Kalp çakrası — sevgi ve uyum" },
+    "freq_741": { "name": "Arınma", "sub": "Toksik düşüncelerden arınma" },
+    "freq_852": { "name": "Sezgi", "sub": "Üçüncü göz çakrası" },
+    "freq_963": { "name": "Işık", "sub": "Kozmik bağlantı" },
+    "freq_777": { "name": "Ruh", "sub": "Ruhsal uyanış" },
+    "freq_888": { "name": "Sonsuzluk", "sub": "Bolluk frekansı" },
+    "freq_999": { "name": "Tamamlanma", "sub": "Bütünsel şifa" }
+  },
+  "screenshots": {
+    "title": "Uygulama",
+    "titleAccent": "Ekran Görüntüleri",
+    "subtitle": "Harmonia'yı keşfedin"
+  },
+  "download": {
+    "title": "Hemen",
+    "titleAccent": "İndir",
+    "subtitle": "Ücretsiz olarak Google Play'den indirin ve frekansların şifalı dünyasına adım atın.",
+    "googlePlay": "Google Play'den İndir",
+    "privacy": "Gizlilik Politikası",
+    "privacyUrl": "/privacy-policy"
+  },
+  "footer": {
+    "brandAlt": "Harmonia - Ses Terapi Uygulaması",
+    "description": "Solfeggio frekansları, binaural beats ve isochronic atımlar ile frekans tabanlı ses terapisi.",
+    "quickLinks": "Hızlı Linkler",
+    "contact": "İletişim",
+    "rights": "Tüm hakları saklıdır.",
+    "developedBy": "Dagsolution tarafından geliştirildi"
+  },
+  "language": {
+    "switchTo": "Dil değiştir",
+    "tr": "Türkçe",
+    "en": "English"
+  }
+}

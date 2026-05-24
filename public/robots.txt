@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://harmonia.dagsolution.com/__sitemap__/sitemap.xml

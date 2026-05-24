@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "features": "Features",
+    "frequencies": "Frequencies",
+    "screenshots": "Screenshots",
+    "download": "Download"
+  },
+  "hero": {
+    "tagline": "Frequency-Based Sound Therapy App",
+    "description": "Experience Solfeggio frequencies, binaural beats and isochronic tones with real-time waveform synthesis.",
+    "download": "Get it on Google Play",
+    "learnMore": "Learn More",
+    "scrollHint": "Scroll down",
+    "features": "11 Solfeggio · 16 Binaural · 16 Isochronic"
+  },
+  "features": {
+    "title": "Features",
+    "titleAccent": "What We Offer",
+    "subtitle": "No audio files needed — all sounds are synthesized in real-time",
+    "solfeggio": {
+      "title": "11 Solfeggio Frequencies",
+      "description": "From 396 Hz to 999 Hz — the complete Solfeggio scale. Each frequency has its own color and meaning."
+    },
+    "binaural": {
+      "title": "Binaural Beats",
+      "description": "16 beat frequencies across 5 brainwave categories: Delta, Theta, Alpha, Beta, and Gamma."
+    },
+    "isochronic": {
+      "title": "Isochronic Tones",
+      "description": "16 pulse frequencies with 3 waveform options (Sine, Square, Triangle). Works with speakers too."
+    },
+    "aura": {
+      "title": "Visual Aura Animations",
+      "description": "5 visualization modes: Sacred Geometry, Energy Orb, Wave Interference, Particle Rings, Breathing Light."
+    },
+    "studio": {
+      "title": "Studio Mode",
+      "description": "Ready presets and Frequency Lab to create custom combinations from 20–1500 Hz."
+    },
+    "analytics": {
+      "title": "Analytics Panel",
+      "description": "Listening statistics, daily/weekly charts, mode and frequency-based distribution."
+    },
+    "background": {
+      "title": "Background Playback",
+      "description": "Sound continues when app is in background. Notification support with playing frequency info."
+    }
+  },
+  "frequencies": {
+    "title": "Solfeggio",
+    "titleAccent": "Frequencies",
+    "subtitle": "11 healing frequencies — each with its own color, meaning, and vibration",
+    "hz": "Hz",
+    "freq_396": { "name": "Liberation", "sub": "Release from fear and guilt" },
+    "freq_417": { "name": "Change", "sub": "Transformation and trauma cleansing" },
+    "freq_432": { "name": "Harmony", "sub": "Alignment with the universe" },
+    "freq_528": { "name": "Transformation", "sub": "DNA repair and miracles" },
+    "freq_639": { "name": "Connection", "sub": "Heart chakra — love and harmony" },
+    "freq_741": { "name": "Detox", "sub": "Cleansing toxic thoughts" },
+    "freq_852": { "name": "Intuition", "sub": "Third eye chakra" },
+    "freq_963": { "name": "Light", "sub": "Cosmic connection" },
+    "freq_777": { "name": "Spirit", "sub": "Spiritual awakening" },
+    "freq_888": { "name": "Infinity", "sub": "Abundance frequency" },
+    "freq_999": { "name": "Completion", "sub": "Holistic healing" }
+  },
+  "screenshots": {
+    "title": "App",
+    "titleAccent": "Screenshots",
+    "subtitle": "Explore Harmonia"
+  },
+  "download": {
+    "title": "Download",
+    "titleAccent": "Now",
+    "subtitle": "Download for free from Google Play and step into the healing world of frequencies.",
+    "googlePlay": "Get it on Google Play",
+    "privacy": "Privacy Policy",
+    "privacyUrl": "/privacy-policy"
+  },
+  "footer": {
+    "brandAlt": "Harmonia - Sound Therapy App",
+    "description": "Frequency-based sound therapy with Solfeggio frequencies, binaural beats and isochronic tones.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "developedBy": "Developed by Dagsolution"
+  },
+  "language": {
+    "switchTo": "Switch language",
+    "tr": "Türkçe",
+    "en": "English"
+  }
+}
