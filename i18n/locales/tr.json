@@ -3,12 +3,14 @@
     "features": "Özellikler",
     "frequencies": "Frekanslar",
     "screenshots": "Ekran Görüntüleri",
-    "download": "İndir"
+    "download": "İndir",
+    "appGallery": "AppGallery"
   },
   "hero": {
     "tagline": "Frekans Tabanlı Ses Terapi Uygulaması",
     "description": "Solfeggio frekansları, binaural beats ve isochronic atımları gerçek zamanlı dalga formu senteziyle deneyimleyin.",
     "download": "Google Play'den İndir",
+    "appGallery": "AppGallery'den İndir",
     "learnMore": "Daha Fazla",
     "scrollHint": "Aşağı kaydır",
     "features": "11 Solfeggio · 16 Binaural · 16 İzochronik"
@@ -73,6 +75,7 @@
     "titleAccent": "İndir",
     "subtitle": "Ücretsiz olarak Google Play'den indirin ve frekansların şifalı dünyasına adım atın.",
     "googlePlay": "Google Play'den İndir",
+    "appGallery": "AppGallery'den İndir",
     "privacy": "Gizlilik Politikası",
     "privacyUrl": "/privacy-policy"
   },

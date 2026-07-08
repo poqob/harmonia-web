@@ -57,6 +57,14 @@ const navLinks = [
               <Download class="w-4 h-4 mr-1.5" />
               {{ $t('nav.download') }}
             </a>
+            <a
+              href="https://appgallery.huawei.com/app/C118239253"
+              target="_blank"
+              class="btn-secondary text-sm py-2.5 hidden sm:inline-flex"
+            >
+              <Download class="w-4 h-4 mr-1.5" />
+              {{ $t('nav.appGallery') }}
+            </a>
             <button class="md:hidden p-2 text-text-secondary hover:text-text-primary">
               <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />

@@ -3,12 +3,14 @@
     "features": "Features",
     "frequencies": "Frequencies",
     "screenshots": "Screenshots",
-    "download": "Download"
+    "download": "Download",
+    "appGallery": "AppGallery"
   },
   "hero": {
     "tagline": "Frequency-Based Sound Therapy App",
     "description": "Experience Solfeggio frequencies, binaural beats and isochronic tones with real-time waveform synthesis.",
     "download": "Get it on Google Play",
+    "appGallery": "Get it on AppGallery",
     "learnMore": "Learn More",
     "scrollHint": "Scroll down",
     "features": "11 Solfeggio · 16 Binaural · 16 Isochronic"
@@ -73,6 +75,7 @@
     "titleAccent": "Now",
     "subtitle": "Download for free from Google Play and step into the healing world of frequencies.",
     "googlePlay": "Get it on Google Play",
+    "appGallery": "Get it on AppGallery",
     "privacy": "Privacy Policy",
     "privacyUrl": "/privacy-policy"
   },

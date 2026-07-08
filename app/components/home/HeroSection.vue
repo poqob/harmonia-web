@@ -83,6 +83,14 @@ onMounted(() => {
             <Download class="w-5 h-5 mr-2" />
             {{ $t('hero.download') }}
           </a>
+          <a
+            href="https://appgallery.huawei.com/app/C118239253"
+            target="_blank"
+            class="btn-secondary"
+          >
+            <Download class="w-5 h-5 mr-2" />
+            {{ $t('hero.appGallery') }}
+          </a>
           <a href="#features" class="btn-secondary group">
             {{ $t('hero.learnMore') }}
             <ArrowRight class="w-5 h-5 ml-2 group-hover:translate-x-1 transition-transform" />

@@ -24,6 +24,14 @@ const { container, revealed } = useStaggerReveal()
             <Download class="w-6 h-6 mr-3" />
             {{ $t('download.googlePlay') }}
           </a>
+          <a
+            href="https://appgallery.huawei.com/app/C118239253"
+            target="_blank"
+            class="btn-secondary inline-flex items-center px-8 py-4 text-lg"
+          >
+            <Download class="w-6 h-6 mr-3" />
+            {{ $t('download.appGallery') }}
+          </a>
         </div>
 
         <div class="mt-6 reveal" :class="{ 'reveal-visible': revealed }" :style="{ transitionDelay: '200ms' }">
